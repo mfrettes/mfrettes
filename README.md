@@ -27,7 +27,7 @@ Mi Repositorio personal
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://anchor.fm/s/4f4300e0/podcast/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anchor.fm/s/4f4300e0/podcast/rss" height="30" width="40" /></a>
+<a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy80ZjQzMDBlMC9wb2RjYXN0L3Jzcw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anchor.fm/s/4f4300e0/podcast/rss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

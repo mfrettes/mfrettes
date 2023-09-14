@@ -21,7 +21,7 @@ Mi Repositorio personal
 - [Professor Title](https://drive.google.com/file/d/1efRMoo8HvxnM1dwQtzJhL3H6PC9qNtth/view?usp=sharing)
 - [Analytical Professor Title](https://drive.google.com/file/d/1eh03ByaD41jnvISVRyc7jnDrdJMNmlYq/view?usp=sharing)
 
-- ⚡ Fun fact **I am a Professor of Philosophy and "almost" a Graduate in Theology and I participated in a program called "truth, goodness, beauty" on a local radio**
+- ⚡ Fun fact **I am a Professor of Philosophy and "almost" a Graduate in Theology and I participated in a program called "truth, goodness, beauty" on a local FM radio: 96.9 ECOS BARRIALES**
 
 ### .[Blogs posts](https://mario-frettes.hashnode.dev/)
 <!-- BLOG-POST-LIST:START -->

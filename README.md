@@ -23,6 +23,7 @@ Mi Repositorio personal
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://mario-frettes.hashnode.dev/
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

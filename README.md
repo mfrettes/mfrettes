@@ -21,7 +21,8 @@ Mi Repositorio personal
 - [Professor Title](https://drive.google.com/file/d/1efRMoo8HvxnM1dwQtzJhL3H6PC9qNtth/view?usp=sharing)
 - [Analytical Professor Title](https://drive.google.com/file/d/1eh03ByaD41jnvISVRyc7jnDrdJMNmlYq/view?usp=sharing)
 - [Web Developer Full Stack](https://drive.google.com/file/d/12K_Z9l9GsmDzd3YfBPA5okZ3ZzmS49zk/view?usp=sharing)
-- [Python course](https://drive.google.com/file/d/1DLgvi3maLu8AiJc3x-FrHTYdqwbs05_z/view?usp=sharing)
+- [POO course](https://drive.google.com/file/d/1DLgvi3maLu8AiJc3x-FrHTYdqwbs05_z/view?usp=sharing)
+- [Python course](https://drive.google.com/file/d/1y_xJsUMeRPhQFAC3Kw5RgDFCaNBkyJaf/view?usp=sharing)
   
 - ⚡ Fun fact **I am a Professor of Philosophy and "almost" a Graduate in Theology and I participated in a program called "truth, goodness, beauty" on a local FM radio: 96.9 ECOS BARRIALES**
 

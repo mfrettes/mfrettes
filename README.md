@@ -1,4 +1,4 @@
-# Mario
+# Currículum de Mario
 Mi Repositorio personal
 
 
@@ -17,13 +17,15 @@ Mi Repositorio personal
 
 - 📫 How to reach me **mfrettes@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HDUk899UG74D6CZnHETCeE9yllqSFgPW/view?usp=sharing](https://drive.google.com/file/d/1HDUk899UG74D6CZnHETCeE9yllqSFgPW/view?usp=sharing)
+- 📄 Know about my experiences [CURRICULUM VITAE](https://drive.google.com/file/d/1HDUk899UG74D6CZnHETCeE9yllqSFgPW/view?usp=sharing)
+- [Professor Title](https://drive.google.com/file/d/1efRMoo8HvxnM1dwQtzJhL3H6PC9qNtth/view?usp=sharing)
+- [Analytical Professor Title](https://drive.google.com/file/d/1eh03ByaD41jnvISVRyc7jnDrdJMNmlYq/view?usp=sharing)
 
-- ⚡ Fun fact **I am a Professor of Philosophy and "almost" a Graduate in Theology**
+- ⚡ Fun fact **I am a Professor of Philosophy and "almost" a Graduate in Theology and I participated in a program called "truth, goodness, beauty" on a local radio**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://mario-frettes.hashnode.dev/
+.[https://mario-frettes.hashnode.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

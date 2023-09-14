@@ -23,9 +23,8 @@ Mi Repositorio personal
 
 - ⚡ Fun fact **I am a Professor of Philosophy and "almost" a Graduate in Theology and I participated in a program called "truth, goodness, beauty" on a local radio**
 
-### Blogs posts
+### .[Blogs posts](https://mario-frettes.hashnode.dev/)
 <!-- BLOG-POST-LIST:START -->
-.[https://mario-frettes.hashnode.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
